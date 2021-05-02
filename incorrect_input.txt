@@ -1,0 +1,36 @@
+#include <stdio>
+#include <Sdsada> 
+ 
+
+y_int a 
+y_char zz
+readc(a)
+read(zz)
+/com y_int m
+y_int a
+/*sll'
+y_int zz
+*/
+
+//// dfsdfsdf
+////v erferferferf
+input(zz)
+inputc(a)
+output(zz)
+zz = 233
+a = 'd'
+while(zz)
+{
+	if('s') 
+	{
+		outputc(a)
+	}
+	else 
+		output(zz)
+	
+}
+
+while(zz) 
+{
+	output(a)
+}

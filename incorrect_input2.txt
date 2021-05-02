@@ -1,0 +1,22 @@
+#include <stdio>
+#include <Sdsada> 
+#include <grhgrfgr>
+
+y_int   
+y_char zz
+readc(zz) read(a)
+y_int m
+
+output(a)
+a + 10
+while(a){
+	if(3433434) {
+		outputc(zz)
+	} else 
+        output(a)
+	
+}
+
+while(1) {
+	output(123)
+}

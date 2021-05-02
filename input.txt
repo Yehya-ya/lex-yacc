@@ -1,0 +1,31 @@
+y_int a  
+y_char zz
+readc(zz)
+read(a)
+//com y_int m
+y_int m
+/*sll'
+y_int zz
+*/
+
+//// dfsdfsdf
+////v erferferferf
+
+
+output(a)
+a = 233
+while(a)
+{
+	if(3433434) 
+	{
+		outputc(zz)
+	}
+	else 
+		output(a)
+	
+}
+
+while(1) 
+{
+	output(123)
+}
